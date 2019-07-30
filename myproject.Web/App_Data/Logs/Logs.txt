@@ -1,0 +1,44 @@
+DEBUG 2019-07-30 11:46:16,208 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-07-30 11:46:16,224 [1    ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2019-07-30 11:46:16,230 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: myproject.Web.myprojectWebModule, myproject.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-30 11:46:16,232 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-30 11:46:16,232 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-30 11:46:16,241 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-30 11:46:16,241 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-30 11:46:16,241 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: myproject.myprojectDataModule, myproject.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-30 11:46:16,241 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-30 11:46:16,242 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-30 11:46:16,242 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: myproject.myprojectCoreModule, myproject.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-30 11:46:16,242 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: myproject.myprojectApplicationModule, myproject.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-30 11:46:16,242 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: myproject.myprojectWebApiModule, myproject.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-30 11:46:16,242 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-30 11:46:16,247 [1    ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2019-07-30 11:46:16,622 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: myproject.EntityFramework.myprojectDbContext, myproject.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-30 11:46:18,758 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2019-07-30 11:46:18,877 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-07-30 11:46:18,921 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-07-30 11:46:18,936 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: myproject
+DEBUG 2019-07-30 11:46:19,128 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2019-07-30 11:46:19,155 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'myproject.Users.IUserAppService' with service name 'app/user'.
+DEBUG 2019-07-30 11:46:54,516 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-07-30 11:46:54,926 [1    ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2019-07-30 11:46:54,932 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: myproject.Web.myprojectWebModule, myproject.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-30 11:46:54,934 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-30 11:46:54,934 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-30 11:46:54,934 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-30 11:46:54,934 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-30 11:46:54,935 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: myproject.myprojectDataModule, myproject.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-30 11:46:54,935 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-30 11:46:54,935 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-30 11:46:54,935 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: myproject.myprojectCoreModule, myproject.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-30 11:46:54,935 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: myproject.myprojectApplicationModule, myproject.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-30 11:46:54,936 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: myproject.myprojectWebApiModule, myproject.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-30 11:46:54,936 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-30 11:46:54,942 [1    ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2019-07-30 11:46:55,817 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: myproject.EntityFramework.myprojectDbContext, myproject.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-30 11:46:56,128 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2019-07-30 11:46:56,248 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-07-30 11:46:56,289 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-07-30 11:46:56,291 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: myproject
+DEBUG 2019-07-30 11:46:56,686 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2019-07-30 11:46:56,742 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'myproject.Users.IUserAppService' with service name 'app/user'.
